@@ -50,8 +50,6 @@ No copy-paste. All hand-coded.
 ```
 dsa-solutions/
 ├── README.md
-├── _templates/
-│   └── solution_template.py
 ├── arrays/
 ├── two-pointer/
 ├── binary-search/
