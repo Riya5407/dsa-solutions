@@ -11,7 +11,7 @@ Core topic. Master this first — almost every other topic builds on arrays.
 
 | # | Problem | Difficulty | Platform | File |
 |---|---------|:---:|:---:|------|
-| 1 | Two Sum | Easy | LeetCode 1 | — |
-| 2 | Best Time to Buy & Sell Stock | Easy | LeetCode 121 | — |
+| 1 | 3 Sum | Medium | LeetCode 15 | — |
+| 2 | Next Permutation | Medium | LeetCode 31 | — |
 | 3 | Contains Duplicate | Easy | LeetCode 217 | — |
 | 4 | Maximum Subarray | Medium | LeetCode 53 | — |
