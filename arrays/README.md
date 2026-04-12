@@ -32,3 +32,6 @@ Core topic. Master this first — almost every other topic builds on arrays.
 | 19 | Move Zeroes | Easy | LeetCode 283 | [283_Move_Zeroes.py](./283_Move_Zeroes.py) |
 | 20 | Subarray Sum Equals K | Medium | LeetCode 560 | [560_Subarray_Sum_Equals_K.py](./560_Subarray_Sum_Equals_K.py) |
 | 21 | Rearrange Array Elements by Sign | Medium | LeetCode 2149 | [2149_Reaarange_Array_Elements_by_Sign.py](./2149_Reaarange_Array_Elements_by_Sign.py) |
+| 22 | 4Sum | Medium | LeetCode 18 | [18_4Sum.py](./18_4Sum.py) |
+| 23 | Merge Intervals | Medium | LeetCode 56 | [56_Merge_Intervals.py](./56_Merge_Intervals.py) |
+| 24 | Rotate Array | Medium | LeetCode 189 | [189_Rotate_Array.py](./189_Rotate_Array.py) |
