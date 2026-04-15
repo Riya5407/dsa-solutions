@@ -6,7 +6,7 @@
 Following [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) · Built by [Riya](https://github.com/Riya5407)
 
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-44-brightgreen?style=flat-square)
+![Problems](https://img.shields.io/badge/Problems%20Solved-49-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </div>
@@ -28,11 +28,11 @@ No copy-paste. All hand-coded.
 | Topic | Folder | Problems Done | Status |
 |-------|--------|:---:|:---:|
 | Arrays | [arrays/](./arrays/) | 24 | ✅ Done |
-| Two Pointer | [two-pointer/](./two-pointer/) | 1 | 🔄 In progress |
+| Two Pointer | [two-pointer/](./two-pointer/) | 3 | 🔄 In progress |
 | Binary Search | [binary-search/](./binary-search/) | 10 | ✅ Done |
 | Linked Lists | [linked-lists/](./linked-lists/) | 3 | ✅ Done |
-| Stacks & Queues | [stacks-queues/](./stacks-queues/) | 3 | ✅ Done |
-| Strings | [strings/](./strings/) | 3 | ✅ Done |
+| Stacks & Queues | [stacks-queues/](./stacks-queues/) | 4 | ✅ Done |
+| Strings | [strings/](./strings/) | 5 | ✅ Done |
 | Sorting | [sorting/](./sorting/) | 0 | ⬜ Not started |
 | Dynamic Programming | [dynamic-programming/](./dynamic-programming/) | 0 | ⬜ Not started |
 | Hashing | [hashing/](./hashing/) | 0 | ⬜ Not started |
