@@ -16,3 +16,5 @@ Use when the search space is sorted. Eliminate half at each step.
 | 8 | Find Peak Element | Medium | LeetCode 162 | [162_Find_Peak_Element.py](./162_Find_Peak_Element.py) |
 | 9 | Single Element in a Sorted Array | Medium | LeetCode 540 | [540_Single_Element_in_a_Sorted_Array.py](./540_Single_Element_in_a_Sorted_Array.py) |
 | 10 | Min Days to Make m Bouquets | Medium | LeetCode 1482 | [1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py](./1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py) |
+| 11 | Search a 2D Matrix | Medium | LeetCode 74 | [74_Search_a_2D_Matrix.py](./74_Search_a_2D_Matrix.py) |
+| 12 | Search a 2D Matrix II | Medium | LeetCode 240 | [240_Search_a_2D_Matrix_II.py](./240_Search_a_2D_Matrix_II.py) |
