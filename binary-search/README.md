@@ -18,3 +18,5 @@ Use when the search space is sorted. Eliminate half at each step.
 | 10 | Min Days to Make m Bouquets | Medium | LeetCode 1482 | [1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py](./1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py) |
 | 11 | Search a 2D Matrix | Medium | LeetCode 74 | [74_Search_a_2D_Matrix.py](./74_Search_a_2D_Matrix.py) |
 | 12 | Search a 2D Matrix II | Medium | LeetCode 240 | [240_Search_a_2D_Matrix_II.py](./240_Search_a_2D_Matrix_II.py) |
+| 13 | Capacity To Ship Packages Within D Days | Medium | LeetCode 1011 | [1011_Capacity_To_Ship_Packages_Within_D_Days.py](./1011_Capacity_To_Ship_Packages_Within_D_Days.py) |
+| 14 | Split Array Largest Sum | Hard | LeetCode 410 | [410_Split_Array_Largest_Sum.py](./410_Split_Array_Largest_Sum.py) |
