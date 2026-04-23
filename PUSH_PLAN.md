@@ -6,7 +6,7 @@ This file tracks the upcoming Git pushes for LeetCode solutions. It is updated w
 
 | Target Date | Push ID | Problems to Push | Category Breakdown | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **2026-04-23** | Day 11 | 1901, 1903, 151, 1021 | Binary Search (1), Strings (2), Stacks (1) | 🔄 In Progress |
+| **2026-04-23** | Day 11 | 1901, 1903, 151, 1021 | Binary Search (1), Strings (2), Stacks (1) | ✅ Done |
 | **2026-04-24** | Day 12 | 14, 205, 796 | Strings (3) | ⏳ Pending |
 | **2026-04-25** | Day 13 | 451, 1614 | Strings (1), Stacks (1) | ⏳ Pending |
 | **2026-04-26** | Day 14 | 8, 5 | Strings (2) | ⏳ Pending |
@@ -19,7 +19,7 @@ This file tracks the upcoming Git pushes for LeetCode solutions. It is updated w
 - [x] **1901. Find a Peak Element II** (Medium) -> `binary-search/`
 - [x] **1903. Largest Odd Number in String** (Easy) -> `strings/`
 - [x] **151. Reverse Words in a String** (Medium) -> `strings/`
-- **1021. Remove Outermost Parentheses** (Easy) -> `stacks-queues/`
+- [x] **1021. Remove Outermost Parentheses** (Easy) -> `stacks-queues/`
 
 ### **Day 12 (Strings 1)**
 - **14. Longest Common Prefix** (Easy) -> `strings/`
