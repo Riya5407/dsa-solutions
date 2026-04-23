@@ -16,3 +16,5 @@ Pattern matching, parsing, and character frequency problems.
 | 3 | Valid Anagram | Easy | LeetCode 242 | [242_Valid_Anagram.py](./242_Valid_Anagram.py) |
 | 4 | Find First Occurrence in String | Easy | LeetCode 28 | [28_Find_the_Index_of_the_First_Occurrence_in_a_String.py](./28_Find_the_Index_of_the_First_Occurrence_in_a_String.py) |
 | 5 | Strings Equal With Operations II | Medium | LeetCode 2840 | [2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.py](./2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.py) |
+| 6 | Largest Odd Number in String | Easy | LeetCode 1903 | [1903_Largest_Odd_Number_in_String.py](./1903_Largest_Odd_Number_in_String.py) |
+

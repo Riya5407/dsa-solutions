@@ -17,7 +17,7 @@ This file tracks the upcoming Git pushes for LeetCode solutions. It is updated w
 
 ### **Day 11 (Leftover Backlog)**
 - [x] **1901. Find a Peak Element II** (Medium) -> `binary-search/`
-- **1903. Largest Odd Number in String** (Easy) -> `strings/`
+- [x] **1903. Largest Odd Number in String** (Easy) -> `strings/`
 - **151. Reverse Words in a String** (Medium) -> `strings/`
 - **1021. Remove Outermost Parentheses** (Easy) -> `stacks-queues/`
 
