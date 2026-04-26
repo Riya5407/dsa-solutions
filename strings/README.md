@@ -18,5 +18,7 @@ Pattern matching, parsing, and character frequency problems.
 | 5 | Strings Equal With Operations II | Medium | LeetCode 2840 | [2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.py](./2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.py) |
 | 6 | Largest Odd Number in String | Easy | LeetCode 1903 | [1903_Largest_Odd_Number_in_String.py](./1903_Largest_Odd_Number_in_String.py) |
 | 7 | Reverse Words in a String | Medium | LeetCode 151 | [151_Reverse_Words_in_a_String.py](./151_Reverse_Words_in_a_String.py) |
+| 8 | Longest Common Prefix | Easy | LeetCode 14 | [14_Longest_Common_Prefix.py](./14_Longest_Common_Prefix.py) |
+
 
 
