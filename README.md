@@ -6,7 +6,7 @@
 Following [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) · Built by [Riya](https://github.com/Riya5407)
 
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-61-brightgreen?style=flat-square)
+![Problems](https://img.shields.io/badge/Problems%20Solved-62-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </div>
@@ -32,7 +32,7 @@ No copy-paste. All hand-coded.
 | Binary Search | [binary-search/](./binary-search/) | 16 | ✅ Done |
 | Linked Lists | [linked-lists/](./linked-lists/) | 3 | ✅ Done |
 | Stacks & Queues | [stacks-queues/](./stacks-queues/) | 5 | ✅ Done |
-| Strings | [strings/](./strings/) | 8 | ✅ Done |
+| Strings | [strings/](./strings/) | 9 | ✅ Done |
 | Sorting | [sorting/](./sorting/) | 1 | 🔄 In progress |
 | Dynamic Programming | [dynamic-programming/](./dynamic-programming/) | 1 | 🔄 In progress |
 | Hashing | [hashing/](./hashing/) | 0 | ⬜ Not started |
